@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "name": "aerolab-coding-challenge",
+  "name": "next-podcast",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
