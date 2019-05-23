@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "set NODE_ENV=production && node server.js"
+    "start": "set NODE_ENV=production && node server.js",
+    "now-build": "next build"
   },
   "dependencies": {
     "isomorphic-fetch": "2.2.1",
